@@ -1,7 +1,7 @@
 import requests
 import json
 
-def CEP_validator(cep_original):
+def CEP_validador(cep_original):
     """
         Consulta a API do ViaCEP para obter informações de endereço.
     """
@@ -43,4 +43,4 @@ def CEP_validator(cep_original):
     except Exception as e:
         print(f"Ocorreu um erro inesperado: {e}")
 
-CEP_validator(24240670)
+CEP_validador(24240670)
