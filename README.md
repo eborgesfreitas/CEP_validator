@@ -29,4 +29,5 @@ Certifique-se de ter o **Python 3** instalado em seu sistema.
 Primeiro, clone este repositório para o seu ambiente local:
 
 ```bash
-git clone [https://github.com/eborgesfreitas/CEP_validator.git](https://github.com/eborgesfreitas/CEP_validator.git)
+git clone https://github.com/eborgesfreitas/CEP_validator.git
+
